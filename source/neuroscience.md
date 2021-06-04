@@ -7,8 +7,23 @@
 
 ## ニューロンモデル
 
+# 詳細モデル
+- Hodgikin Huxley model
+- Leaky integrate and fire model
+
+# 現象論的モデル
+- Poisson model
+
 
 ## シナプスモデル
+- Transmitter based model
+- Conductance based model
+- Current based model
+
+
+# ネットワーク
+
+# 学習則
 
 
 ## 参考文献
