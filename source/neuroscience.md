@@ -1,21 +1,17 @@
 ## Neuroscience
 
-## Welcome to my memorandum
-Here I save neuron and synapse model with these features and usability
+## 備忘録へようこそ
+神経科学に関する記事を書いていきます
 
-## neuron model
+## 神経の情報伝達について
 
-```python
-import numpy as np
-
+## ニューロンモデル
 
 
-```
-
-## synapse model
+## シナプスモデル
 
 
-## bibliography
+## 参考文献
 
 - A QUANTITATIVE DESCRIPTION OF MEMBRANE CURRENT AND ITS APPLICATION TO CONDUCTION AND EXCITATION IN NERVE
 - The neural code between neocortical pyramidal neurons depends on neurotransmitter release probability
