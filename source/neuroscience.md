@@ -19,7 +19,6 @@
 
 ## シナプスモデル
 - Transmitter based model
-
 <br> 論文: The neural code between neocortical pyramidal neurons depends on neurotransmitter release probability
 - Conductance based model
 - Current based model
