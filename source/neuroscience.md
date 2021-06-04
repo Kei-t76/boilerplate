@@ -9,7 +9,7 @@
 
 ## 詳細モデル
 - Hodgikin Huxley model
-論文: A QUANTITATIVE DESCRIPTION OF MEMBRANE CURRENT AND ITS APPLICATION TO CONDUCTION AND EXCITATION IN NERVE
+//論文: A QUANTITATIVE DESCRIPTION OF MEMBRANE CURRENT AND ITS APPLICATION TO CONDUCTION AND EXCITATION IN NERVE
 
 - Leaky integrate and fire model
 
@@ -20,7 +20,7 @@
 ## シナプスモデル
 - Transmitter based model
 
-論文: The neural code between neocortical pyramidal neurons depends on neurotransmitter release probability
+//論文: The neural code between neocortical pyramidal neurons depends on neurotransmitter release probability
 - Conductance based model
 - Current based model
 
