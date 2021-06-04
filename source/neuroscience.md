@@ -3,6 +3,15 @@
 ## Welcome to my memorandum
 Here I save neuron and synapse model with these features and usability
 
+## Hodgikin Huxley model (written by python)
+
+```python
+import numpy as np
+
+
+
+```
+
 
 ## bibliography
 
