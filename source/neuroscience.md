@@ -3,7 +3,7 @@
 ## Welcome to my memorandum
 Here I save neuron and synapse model with these features and usability
 
-## Hodgikin Huxley model (written by python)
+## neuron model
 
 ```python
 import numpy as np
@@ -11,6 +11,8 @@ import numpy as np
 
 
 ```
+
+## synapse model
 
 
 ## bibliography
