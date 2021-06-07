@@ -23,7 +23,7 @@
 ## 現象論的モデル
 - Poisson model
 <br> 論文: Poisson Model of Spike Generation 
-<br> 実装: 
+<br> 実装: https://github.com/Kei-t76/Neuroscience/blob/master/poisson.ipynb
 
 
 
