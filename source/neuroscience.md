@@ -22,6 +22,9 @@
 
 ## 現象論的モデル
 - Poisson model
+<br> 論文: Poisson Model of Spike Generation 
+<br> 実装: 
+
 
 
 ## シナプスモデル
@@ -40,3 +43,5 @@
 - A QUANTITATIVE DESCRIPTION OF MEMBRANE CURRENT AND ITS APPLICATION TO CONDUCTION AND EXCITATION IN NERVE
 - The neural code between neocortical pyramidal neurons depends on neurotransmitter release probability
 - An Empirical Analysis of Leaky Integrate and Fire Neuron Model
+- Poisson Model of Spike Generation 
+
