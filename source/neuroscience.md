@@ -39,3 +39,4 @@
 
 - A QUANTITATIVE DESCRIPTION OF MEMBRANE CURRENT AND ITS APPLICATION TO CONDUCTION AND EXCITATION IN NERVE
 - The neural code between neocortical pyramidal neurons depends on neurotransmitter release probability
+- An Empirical Analysis of Leaky Integrate and Fire Neuron Model
